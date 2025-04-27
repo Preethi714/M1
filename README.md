@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/becb636d-ad47-4acb-a237-874c061e29bf)
+
 # EX-01-Datatypes-Operators
 ## NAME: Preethi.K
 # REGISTER NO.: 212224240118
@@ -79,8 +79,6 @@ Thus the program to read A values and check whether A is positive number or not 
  
  
  
-
-
 # EX-03- Operators-Expressions
 ## AIM:
 Write a program to find minimum between two fraction numbers using conditional operator or ternary operator.
@@ -165,8 +163,6 @@ int main() {
 
 ## RESULT:
 Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
-
-
 
 # EX-05- Calculating Total, Percentage, And Division Using Conditional Statements 
 ## AIM:
