@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/becb636d-ad47-4acb-a237-874c061e29bf)
 # EX-01-Datatypes-Operators
 ## NAME: Preethi.K
 # REGISTER NO.: 212224240118
@@ -71,6 +71,7 @@ int main()
 
 
 ![Screenshot 2025-04-27 133821](https://github.com/user-attachments/assets/7bd66dfe-c028-478c-879e-753634c703e5)
+![Screenshot 2025-04-27 134939](https://github.com/user-attachments/assets/062cc82b-4966-4233-9477-68ac909d3094)
 
 
 # RESULT:
@@ -158,6 +159,7 @@ int main() {
 
 
 ![Screenshot 2025-04-27 134327](https://github.com/user-attachments/assets/63a6a173-b3e8-4350-a4a3-fd49dbe0e1a1)
+![Screenshot 2025-04-27 135037](https://github.com/user-attachments/assets/8fea6f6c-928a-41d7-82bd-f154b6733c66)
 
 	
 
@@ -222,6 +224,11 @@ int main()
 ## OUTPUT:
 
 ![Screenshot 2025-04-27 134548](https://github.com/user-attachments/assets/1d33fd0c-d688-400c-bfc0-4d89bffe4f9c)
+![Screenshot 2025-04-27 135146](https://github.com/user-attachments/assets/64cc74d9-9dc7-44af-897c-cfc7f051cb12)
+![Screenshot 2025-04-27 135301](https://github.com/user-attachments/assets/4014d47c-bc72-4c34-ba85-5689441b8f55)
+![Screenshot 2025-04-27 135454](https://github.com/user-attachments/assets/d47d2405-eda2-4f64-b891-7f15a2b176d9)
+
+
 
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
